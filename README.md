@@ -1,3 +1,2 @@
-Codeforces div2 2nd problem.cpp contains the implementation.
-Problem link:
-https://codeforces.com/contest/1114/problem/B
+This workspace contains all the implementation of practiced questions as well as competition questions of codeforces/codechef
+and problem link is given in the respective problem.cpp files.
